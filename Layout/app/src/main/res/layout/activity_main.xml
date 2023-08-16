@@ -8,16 +8,13 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:id="@+id/textView2"
-        android:layout_width="438dp"
-        android:layout_height="102dp"
-        android:ellipsize="marquee"
-        android:focusable="auto"
-        android:focusableInTouchMode="true"
-        android:marqueeRepeatLimit="marquee_forever"
-        android:scrollHorizontally="true"
-        android:singleLine="true"
-        android:text="TextView kasdjhfkljasdhfkljasdhfkjasdhfkjsdahfkljsdaldsaofjdlfkhgasdlkfhaskljd hjklasd hjlklk"
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="100dp"
+        android:maxLength="10"
+        android:maxLines="5"
+        android:text="TextViewabcdefghijklmnopqrstuwxyz"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
