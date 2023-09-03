@@ -1,0 +1,14 @@
+/build
+/src/test/java/com/spartalearning/activity/
+/src/androidTest/java/com/spartalearning/activity/ExampleInstrumentedTest.kt
+/src/main/res/mipmap-anydpi/
+/src/main/res/drawable/
+/src/main/res/mipmap-hdpi/
+/src/main/res/mipmap-xhdpi/
+/src/main/res/mipmap-mdpi/
+/src/main/res/mipmap-xxhdpi/
+/src/main/res/mipmap-xxxhdpi/
+/src/main/res/values/
+/src/main/res/values-night/
+/src/main/res/xml/
+/src/main/AndroidManifest.xml
